@@ -8,3 +8,4 @@
 
 #import <Foundation/Foundation.h>
 #import "NSArray+ASFunctionalAdditions.h"
+#import "NSSet+ASFunctionalAdditions.h"

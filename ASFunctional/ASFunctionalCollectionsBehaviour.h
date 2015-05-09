@@ -24,6 +24,8 @@ typedef id<NSCopying, NSMutableCopying, NSSecureCoding, NSFastEnumeration> ASCol
 /**
  *  Reduce collection
  *
+ *  @param starting value
+ *
  *  @param reduceBlock reduce block with logic for reducing each item
  *
  *  @return final object after reducing given collection
